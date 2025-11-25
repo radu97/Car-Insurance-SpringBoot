@@ -111,9 +111,3 @@ Harden `GET /api/cars/{carId}/insurance-valid`:
 
 Acceptance criteria:
 - When a policy expires, a log line appears once within an hour of expiry.
-
-## 6) Expectations
-
-- Have code committed to Github in your private repository. It will be shown and discussed at the technical discussion.
-
-**Good luck — and have fun!**
